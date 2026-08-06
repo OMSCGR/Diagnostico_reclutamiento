@@ -1,2 +1,2 @@
 - 👥⚠️ Diagnóstico de exposición y reclutamiento por grupos delictivos en población escolar del DMQ: https://omscgr.github.io/Diagnostico_reclutamiento/
--💻  Notebook: https://colab.research.google.com/drive/1pMwRwot4Oc0-jX8WPg7RHoJIxwQp0txR?usp=sharing
+- 💻  Notebook: https://colab.research.google.com/drive/1pMwRwot4Oc0-jX8WPg7RHoJIxwQp0txR?usp=sharing
